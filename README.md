@@ -4,4 +4,6 @@
 ### Notions abordées
 
 - Les sessions PHP
-- L'utilisation des formulaires HTML en lien avec PHP
+- Les conditions
+- Les tableaux et les boucles
+- Les paramètres GET
