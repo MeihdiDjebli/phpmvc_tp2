@@ -1,6 +1,6 @@
 <?php
 
-require("database/products.php"); // Contient la variable $products
+require('database/products.php'); // Inclut et exécute le script en initialisant la variable $products
 
 ?>
 <!doctype html>
@@ -10,7 +10,7 @@ require("database/products.php"); // Contient la variable $products
 <head>
     <meta charset="utf-8">
     <title>Tech No Fils</title>
-    <link href="images/favicon.ico" rel="icon" type="image/x-icon" />
+    <link href="images/favicon.ico" rel="icon" type="image/x-icon"/>
     <link rel="stylesheet" href="css/bootstrap.css">
     <!-- See https://fontawesome.com/v4.7.0/icons/ for more informations -->
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"

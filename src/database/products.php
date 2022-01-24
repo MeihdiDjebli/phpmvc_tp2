@@ -27,5 +27,3 @@ $products = [
     "SM0003" => "Crosscall Trekker-X4",
     "SM0004" => "Xiaomi Redmi Note 8 Pro Vert (6 Go / 64 Go)",
 ];
-
-?>
